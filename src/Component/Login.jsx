@@ -82,7 +82,7 @@ const Login = () => {
           )}
         </Formik>
       </div>
-    </div>
+    </div> 
   );
 };
 
